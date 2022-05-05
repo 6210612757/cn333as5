@@ -5,7 +5,7 @@
 
 # App Fuctionalities
 1. Create contact
-2. Browse contacts
+2. Browse contacts (Sorted by name)
 3. Edit contact
 4. Move contact to trash
 5. Restore & Delete contacts from trash
